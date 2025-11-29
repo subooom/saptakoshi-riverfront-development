@@ -933,7 +933,9 @@
 ---
 
 *यो पृष्ठ बोरवान–सप्तकोशी गल्ली परियोजनाको लागि सामुदायिक समर्थन अभियानको एक भाग हो।*
+
 <div style="page-break-after: always;"></div>
+
 # PROPOSAL: Tourism & Eco-Development Phase–1
 ## Barahakshetra–6, Borawān–Saptakoshi Corridor
 
