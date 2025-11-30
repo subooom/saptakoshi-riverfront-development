@@ -94,8 +94,19 @@
 *   सुरक्षात्मक बार (बिरुवाहरूको लागि महत्वपूर्ण): NPR ६०,०००
 *   बगैंचा श्रम: NPR ४०,०००
 *   **कुल:** **NPR ४००,०००**
+  
+#### घ. सूर्यास्त दृश्य अवलोकन डेक (Sunset Point)
+*उद्देश्य: सुरक्षित, सौन्दर्यपूर्ण, र पर्यटक आकर्षणका लागि समर्पित दृश्य बिन्दु सिर्जना गर्नु।*
+बोरवान–सप्तकोशी किनारमा पहिल्यै देखिने प्राकृतिक “नोजेस” (उच्च ठाउँ/उभार) लाई उपयोग गर्दै स्थानीय सामग्रीबाट निर्मित एक उठेको दृश्य मंच (viewing deck) स्थापना गरिन्छ, जहाँबाट कोशी टप्पुको खुला क्षितिज, नदी बहाव र सूर्यास्तको सुनौलो दृश्य सुरक्षित रूपमा अवलोकन गर्न सकिन्छ।
 
-#### घ. इको-आध्यात्मिक सन्देश Trail
+***मुख्य विशेषताहरू:***
+* इको–फ्रेन्ड्ली संरचना: प्रशोधित बाँस (treated bamboo) र कडा काठ (hardwood planks) बाट निर्मित ४–५ फिट उठेको मंच। तीनतिर सुरक्षा ह्यान्डरैल, दर्शनीयतर्फ खुला भाग।
+* सोलार लाइटिङ: बाँस पोलमा जडान गरिने साना सोलार लाइटहरू, ताकि साँझमा सुरक्षित पहुँच सुनिश्चित होस्।
+* ल्यान्डमार्क ब्रान्डिङ: “Sunset Point — Barahakshetra-6” नामक सानो चिनारी प्लेक। फोटो तथा सामाजिक सञ्जालको लागि प्रमुख आकर्षण।
+* बोरोवनको पहिचान: प्राकृतिक भू–आकृतिलाई सम्मान गर्दै न्यून निर्माण हस्तक्षेप। स्थानीय सामग्री प्रयोग—सस्टेनेबिलिटी र आर्थिक प्रभाव दुवै बलियो।
+* बजेट अनुमान: NPR १००,००० (बाँस/काठ संरचना, प्ल्याङ्क, सोलार लाइट, र श्रम सहित)
+
+#### ङ. इको-आध्यात्मिक सन्देश Trail
 *उद्देश्य: प्रकृतिलाई माइन्डफुलनेससँग मिलाउन।*
 
 "युकलिप्टस स्ट्रिट" र रिवरफ्रन्टमा ध्यानात्मक प्लेकहरूको स्थापना:
@@ -141,22 +152,23 @@
 
 ---
 
-### ६. बजेट सारांश (चरण–१)
+## ६. बजेट सारांश (चरण–१)
 
 | घटक | विवरण | अनुमान (NPR) |
-| :--- | :--- | :--- |
+| :--- | :--- | ---: |
 | **क. साइनेज** | फ्लेक्स प्रिन्ट, फ्रेम, स्थापना | ७५,००० |
-| **ख. सुरक्षित क्षेत्र** | बोया, पहेंलो-कालो खम्बा, ज्याकेट | २०५,००० |
-| **ग. सफाइ** | *झाडी* हटाउने (श्रम/मेशिन) | ५५,००० |
-| **घ. विषयगत हरियाली** | **युकलिप्टस स्ट्रिट, तुलसी वन, बाँस** | **४००,०००** |
-| **ङ. आध्यात्मिक Trail** | प्लेक र मार्करहरू | ४५,००० |
-| **च. सुरक्षा/TRU** | समरूप, गस्ती लजिस्टिक्स | १४५,००० |
-| **छ. समुदाय** | क्लब गठन र जुटाइ | ६०,००० |
-| **ज. उत्सव** | सप्तकोशी उत्सव सिड फण्ड | १४०,००० |
-| **आकस्मिकता** | बिविध/आपतकालीन (लगभग ५%) | ७०,००० |
-| **जम्मा रकम** | | **NPR १०,९५,०००** |
+| **ख. सुरक्षित स्नान क्षेत्र** | बोया, पहेंलो–कालो खम्बा, लाइफ–ज्याकेट कियोस्क | २,०५,००० |
+| **ग. सफाइ/झाडी हटाउने** | मेशिन + श्रम | ५५,००० |
+| **घ. विषयगत हरियाली (Green Landmarks)** | युकलिप्टस स्ट्रिट, तुलसी वन, बाँस घरी, फल गार्डन | ४,००,००० |
+| **ङ. सूर्यास्त दृश्य अवलोकन डेक (Sunset Point)** | बाँस/काठ डेक, सोलार लाइट | १,००,००० |
+| **च. इको–आध्यात्मिक सन्देश Trail** | ध्यानात्मक प्लेक र मार्ग संकेतक | ४५,००० |
+| **छ. TRU सुरक्षा ढाँचा** | समरूप, गस्ती लजिस्टिक्स | १,४५,००० |
+| **ज. समुदाय सशक्तिकरण** | क्लब गठन र जुटाइ | ६०,००० |
+| **झ. वार्षिक “सप्तकोशी उत्सव”** | सांस्कृतिक/हरियाली कार्यक्रम सिड फण्ड | १,४०,००० |
+| **आ. आकस्मिकता (५%)** | बिविध/आपतकालीन | ७०,००० |
+| **जम्मा रकम** |  | **NPR १,२९५,०००** |
 
-**(शब्दमा: दस लाख, पचानब्बे हजार रुपैयाँ)**
+**(अक्षरमा: बार्ह लाख, पन्चानब्बे हजार रुपैयाँ)**
 
 ---
 
@@ -951,7 +963,7 @@
 
 The Borawān–Saptakoshi riverfront is rapidly transforming into one of Eastern Nepal’s most promising natural tourism belts. The combination of quiet beaches, jet-boat connectivity, and scenic landscapes has driven a surge in domestic tourism.
 
-However, this rapid influx has outpaced local infrastructure. This proposal presents a **Phase–1 Eco–Tourism and Spiritual Corridor Development Plan**. It prioritizes **Visual Transformation** and **Visitor Safety**.
+However, this rapid influx has outpaced local infrastructure. This proposal presents a **Phase-1 Eco–Tourism and Spiritual Corridor Development Plan**. It prioritises **Visual Transformation** and **Visitor Safety**.
 
 **Total Estimated Budget:** NPR 10.95 Lakhs (Approx.)
 
@@ -1031,7 +1043,18 @@ Instead of random planting, we will develop 4 specific zones:
 * Gardening Labor: NPR 40,000
 * **Total:** **NPR 400,000**
 
-#### D. The Eco-Spiritual Messaging Trail
+#### D. Sunset Viewing Deck (Sunset Point)
+*Objective: To create a safe, aesthetic, and tourist-focused dedicated viewing point.*
+Using the naturally elevated “noses” (high mounds) already present along the Borowan–Saptakoshi riverbank, a raised viewing deck made from local materials will be constructed. From here, visitors can safely observe the open horizon of the Koshi Tappu wetlands, river flow, and the golden sunset.
+
+***Key Features:***
+* **Eco-friendly structure:** A 4–5 ft elevated platform built using treated bamboo and hardwood planks. Safety handrails on three sides, open toward the scenic view.
+* **Solar lighting:** Small solar lights mounted on bamboo poles to ensure safe access during evenings.
+* **Landmark branding:** A small identification plaque reading **“Sunset Point — Barahakshetra-6”**. Designed as a key photography and social media attraction.
+* **Borowan identity:** Minimal construction intervention that respects the natural terrain. Use of local materials to strengthen both sustainability and economic impact.
+* **Estimated Budget:** NPR **100,000** (Bamboo/wood structure, planks, solar lights, and labor included)
+
+#### E. The Eco-Spiritual Messaging Trail
 *Objective: To merge nature with mindfulness.*
 
 Installation of meditative plaques along the "Eucalyptus Street" and riverfront:
@@ -1074,22 +1097,23 @@ A proposed annual one-day event to anchor the project:
 
 ---
 
-### 6. BUDGET SUMMARY (PHASE–1)
+## 6. BUDGET SUMMARY (PHASE–1)
 
 | Component | Detail | Estimate (NPR) |
-| :--- | :--- | :--- |
+| :--- | :--- | ---: |
 | **A. Signage** | Flex print, frames, installation | 75,000 |
-| **B. Safe Zone** | Buoys, Yellow-Black poles, Jackets | 205,000 |
-| **C. Clearing** | *Jhadis* removal (Labor/Machine) | 55,000 |
-| **D. THEMATIC GREENERY** | **Eucalyptus St, Tulsi Van, Bamboo** | **300,000** |
-| **E. Spiritual Trail** | Plaques and markers | 45,000 |
-| **F. Safety/TRU** | Uniforms, Patrol logistics | 145,000 |
-| **G. Community** | Club formation & mobilization | 60,000 |
-| **H. Festival** | Saptakoshi Utsav Seed Fund | 140,000 |
-| **Contingency** | Miscellaneous/Emergency (approx 5%) | 70,000 |
-| **GRAND TOTAL** | | **NPR 1,095,000** |
+| **B. Safe Swimming Zone** | Buoys, Yellow–Black poles, life-jacket kiosk | 205,000 |
+| **C. Clearing / Bush Removal** | Machinery + labor | 55,000 |
+| **D. Thematic Greenery (Green Landmarks)** | Eucalyptus Street, Tulsi Forest, Bamboo Belt, Fruit Garden | 400,000 |
+| **E. Sunset Viewing Deck (Sunset Point)** | Bamboo/wood deck, solar lighting | 100,000 |
+| **F. Eco–Spiritual Messaging Trail** | Meditative plaques and markers | 45,000 |
+| **G. TRU Safety Framework** | Uniforms, patrol logistics | 145,000 |
+| **H. Community Strengthening** | Club formation & mobilization | 60,000 |
+| **I. Annual “Saptakoshi Utsav”** | Cultural/green festival seed fund | 140,000 |
+| **J. Contingency (5%)** | Miscellaneous / emergency | 70,000 |
+| **GRAND TOTAL** |  | **NPR 1,295,000** |
 
-**(In words: Ten Lakh, Ninety-Five Thousand Rupees)**
+**(In words: Twelve Lakh, Ninety-Five Thousand Rupees)**
 
 ---
 
